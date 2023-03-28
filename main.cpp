@@ -6,5 +6,6 @@ void greeter() {
 
 int main() {
 	greeter();
+	//komentar
 	return 0;
 }
